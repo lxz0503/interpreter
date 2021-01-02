@@ -1,5 +1,7 @@
 git clone git@github.com:lxz0503/interpreter.git    this is using ssh but not http, can avoid inputting user and pwd
 
+http://www.chinadaily.com.cn/
+
 in unusually blunt criticism    一反常态的进行直接批评
 unlicensed merchants and fake goods   无照经营商家  假冒商品
 corporate regulator    企业监管机构  a：完全！
@@ -23,7 +25,7 @@ wiretapping devices and restricted types of knives   窃听器材和管制刀具
 credibility crisis    诚信危机
 have gone to great lengths to prevent fakes from being sold on its site
 为打假做了大量工作
-take issue with the regulator's approach   对监管机构的做法提出异议
+take issue with the regulator's approach   对监管机构的做法提出异议  叫板
 
 向.....正式投诉
 file a formal complaint to ....
@@ -38,5 +40,159 @@ it has been unable to clean up postings of fake or dangerous goods
 cite sth as a reason   以 什么为由
 
 pull down listings of pirated goods   清除盗版商品  clean up
+
+removed listings often quickly reappear under different names  被清除的  卷土重来 改头换面
+called out regulators in the past   过去 叫板监管机构
+
+don a big motorcycle helmet and red uniform   带上头盔  穿上红色制服
+make home deliveries    送货上门
+a publicity stunt   宣传的噱头
+
+supremacy   霸主地位
+in a pitched battle for e-commerce supremacy   在电商霸主地位的激烈争夺战中
+carve out its own distinct identity   树立独具特色的品牌认同
+a model that echoes Amazon's   模式与亚马逊类似
+
+motorbikes that weave in and out of traffic in some of the country's biggest cities
+送货的摩托车穿行在中国大型城市的车流中
+
+pump  money into sth 
+JD has invested heavily in infrastructure,pumping more than $1.5 billion into building and leasing warehouses 
+and order-fulfillment centers around China
+在基础设施方面投入巨资          斥资15亿美元在   修建和租赁仓库 与 配送中心
+
+venture into home delivery with its own fleet of trucks and more than 20,000 couriers
+自有的货车车队  20000余名快递员  提供送货到家
+venture into  进入某个领域  隐含带有风险
+
+all in the hope of capturing what is projected to be a $1 trillion Chinese e-commerce market by 2020
+这一切都是为了夺取众多的电商市场   到2020年，预计将达到
+
+JD，which is publicly traded in the United States
+JD could be weighed down by physical assets and debt  受到有形资产和债务的拖累
+which is based in Beijing  总部在北京
+the products it ships are authentic,not counterfeit  运送的货物  真品  而非仿冒品
+among the biggest challenges now is doing sth 目前面临 ，其中之一是
+among sth is sth    
+
+our immediate goal is to grow our customer base 近期目标  扩大客户群
+brick-and-mortar shops  实体店
+
+thrive on low prices and fast delivery   凭借低廉价格和快递服务 发展壮大起来
+
+The capital injection helped JD expand its product offering beyond electronics 
+and develop new systems and software
+这次注资  扩大了产品供应 在电子设备意外还提供其他产品    研发新的系统和软件
+have a killer instinct   具备杀手本能   有较强好胜心
+
+expand our business beyond A to include B,c and D  扩大业务范围不仅仅局限于A，还包括B CD
+
+packages often arrived late,in dented boxes. 不能及时送达 而且还被压得变形
+It started building an integrated logistics network from scratch,
+promising to cater to customers from click to drop-off
+从零开始  建造综合物流网络     承诺为顾客 提供从下单到送货的服务
+fulfillment centers and pickup centers  配送中心和自提点
+
+cater to customers 迎合  服务于 public taste
+
+seek to do sth  努力做某事
+make sth easier  提供便利
+seek to make online shopping easier for China's growing consumer class
+为中国快速 增加的消费阶层 提供便利的 网络购物服务
+
+tax evasion is rampant, be the norm   逃税 司空见惯   sth has become the norm 
+Today,traffic to its website is exploding and the company is filling more than two million orders a day
+如今  网站流量暴增   每天发送的订单 超过200万份
+
+Amazon made its big foray into China in 2014  大举进入中国市场  venture into China
+tap into Tencent's huge user base   挖掘 利用  巨大的用户群
+tap into one's potential  挖掘潜能
+
+
+first raise the notion of the economy adjusting to a "new normal"
+首次提出经济要适应 新常态
+credit-fueled investment   举债投资  信贷支撑的投资
+reduce the economy's reliance on credit-fueled investment,
+replacing it with domestic demand as a key driver of growth
+实现经济由依靠投资拉动  向内需拉动 转型
+
+disinfect   给...消毒 杀菌
+
+China is the world's biggest consumer of coal,iron ore and copper 最大消费国 煤 铁矿石 铜
+importer  exporter producer  emitter 拟人化翻译
+
+prompt a redefinition of China's traditional role as the world's workshop 
+and a magnet for foreign investment
+需要中国调整/转变 其作为全球工厂和主要外资目的国的传统角色
+prompt sb to do sth   促使默认做某事
+
+outward investment from China surged 14.1 percent to $
+Rising wages in China are eroding the country's competitiveness
+不断上涨的工资水平  消弱了中国的竞争力
+
+processing trade---bringing in materials and components for assembly and export
+加工贸易  进口原料和零部件   进行组装  然后再出口
+wean itself of credit-driven investment in infrastructure and state-dominated indusries
+在基础设施领域  国家主导产业中  逐渐减少举债投资
+
+private consumption will not expand quickly enough to pick up the slack  接受 接管 填补空缺
+
+buzzword   时髦 流行用语 
+officialdom  官僚  当官的人
+new normal became the buzzword of Chinese officialdom in 2014
+
+be preoccupied with  把精力放在哪里
+A complicates B  A使B变得复杂
+shore up demand  提振需求
+
+the leadership's preoccupation with this triple transition in 2015   twenty fifteen
+complicates their efforts to shore up demand in the economy
+领导人2015年把精力主要放在三重转型上  这让他们提振内需的计划变得更加困难
+
+be pushed into default   陷入违约
+
+
+as inventories of unsold homes rise  随着房屋存量的增长
+following the departure of a number of top executives      after
+dollar-denominated bonds  美元计价债券
+
+RMB-denominated stock market, A share market A股
+
+A landmark trading scheme linking the Hong Kong and Shanghai bourses
+the Hong Kong-Shanghai Stock Connect   沪港通
+
+weigh on the prices of offshore bonds  产生不好的影响
+downgrade the company's debt to its second lowest ranking
+评级下调到倒数第二个等级
+
+play sth up  炒作
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
