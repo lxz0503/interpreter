@@ -1,3 +1,5 @@
+git@github.com:lxz0503/interpreter.git
+
 in unusually blunt criticism    一反常态的进行直接批评
 unlicensed merchants and fake goods   无照经营商家  假冒商品
 corporate regulator    企业监管机构  a：完全！
