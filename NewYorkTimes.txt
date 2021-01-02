@@ -1,4 +1,4 @@
-git@github.com:lxz0503/interpreter.git
+git clone git@github.com:lxz0503/interpreter.git    this is using ssh but not http, can avoid inputting user and pwd
 
 in unusually blunt criticism    一反常态的进行直接批评
 unlicensed merchants and fake goods   无照经营商家  假冒商品
