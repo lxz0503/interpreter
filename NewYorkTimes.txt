@@ -10,8 +10,7 @@ IPO ----- initial public offering
 Alibaba went on to raise a record $25 billion in September in an initial public offering in New York.
 9月， 上市   募集资金250亿美元  创历史记录
 上市  go public, get listed, issue or float IPOs
-上市公司
-a listed company, a public company, a publicly-owned or publicly-traded company
+上市公司 a listed company, a public company, a publicly-owned or publicly-traded company
 退市  摘牌   get delisted
 
 unlicensed or unregistered vendors  未办理营业执照或者未登记注册的卖家
