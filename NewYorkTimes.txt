@@ -1,3 +1,5 @@
+
+
 git clone git@github.com:lxz0503/interpreter.git    this is using ssh but not http, can avoid inputting user and pwd
 
 http://www.chinadaily.com.cn/
@@ -44,6 +46,7 @@ pull down listings of pirated goods   清除盗版商品  clean up
 removed listings often quickly reappear under different names  被清除的  卷土重来 改头换面
 called out regulators in the past   过去 叫板监管机构
 
+don   穿上 戴上
 don a big motorcycle helmet and red uniform   带上头盔  穿上红色制服
 make home deliveries    送货上门
 a publicity stunt   宣传的噱头
@@ -52,6 +55,22 @@ supremacy   霸主地位
 in a pitched battle for e-commerce supremacy   在电商霸主地位的激烈争夺战中
 carve out its own distinct identity   树立独具特色的品牌认同
 a model that echoes Amazon's   模式与亚马逊类似
+
+weave in and out 穿进穿出 
+You should never overtake on the left of or weave in and out of a line of traffic which has stopped or is moving slowly.
+遇上一排已停下来或慢驶中的车辆时，切勿从左面超车，或左穿右插行驶。
+
+Riders of motorcycles and bicycles often ignore traffic lights and weave in and out of traffic.
+骑摩托车和自行车的常常不看红绿灯，在车流中任意穿梭。
+
+overtake   追上；超车；压倒 （在数量或重要性方面）大于
+which nation will match or overtake the United States    匹敌 或者赶超美国
+
+Some describe how their cars' batteries can suddenly die while trying to overtake or labour up a hill.
+一些车主详细描述：当试图超车或缓慢艰难爬坡时，车电瓶就突然失效。
+
+That driver is trying to overtake. Slow down a bit and let him pull ahead .   冲到前面  抢在前头
+那个司机像是要超车，开慢点，让他过去。
 
 motorbikes that weave in and out of traffic in some of the country's biggest cities
 送货的摩托车穿行在中国大型城市的车流中
@@ -69,7 +88,7 @@ all in the hope of capturing what is projected to be a $1 trillion Chinese e-com
 这一切都是为了夺取众多的电商市场   到2020年，预计将达到
 
 JD，which is publicly traded in the United States
-JD could be weighed down by physical assets and debt  受到有形资产和债务的拖累
+JD could be weighed down by physical assets and debt  受到有形资产和债务的拖累      weigh down 
 which is based in Beijing  总部在北京
 the products it ships are authentic,not counterfeit  运送的货物  真品  而非仿冒品
 among the biggest challenges now is doing sth 目前面临 ，其中之一是
@@ -93,7 +112,7 @@ promising to cater to customers from click to drop-off
 从零开始  建造综合物流网络     承诺为顾客 提供从下单到送货的服务
 fulfillment centers and pickup centers  配送中心和自提点
 
-cater to customers 迎合  服务于 public taste
+cater to customers 迎合  服务于       public taste
 
 seek to do sth  努力做某事
 make sth easier  提供便利
@@ -110,7 +129,7 @@ tap into one's potential  挖掘潜能
 
 
 first raise the notion of the economy adjusting to a "new normal"
-首次提出经济要适应 新常态
+首次提出 经济要适应 新常态
 credit-fueled investment   举债投资  信贷支撑的投资
 reduce the economy's reliance on credit-fueled investment,
 replacing it with domestic demand as a key driver of growth
@@ -128,12 +147,15 @@ prompt sb to do sth   促使默认做某事
 
 outward investment from China surged 14.1 percent to $
 Rising wages in China are eroding the country's competitiveness
-不断上涨的工资水平  消弱了中国的竞争力
+不断上涨的工资水平  削弱了中国的竞争力
 
 processing trade---bringing in materials and components for assembly and export
 加工贸易  进口原料和零部件   进行组装  然后再出口
 wean itself of credit-driven investment in infrastructure and state-dominated indusries
 在基础设施领域  国家主导产业中  逐渐减少举债投资
+wean   戒掉  断奶  断绝
+Over the past few years, Thailand's exporters have been trying to wean themselves off dependence on U.
+过去几年中，泰国出口商一直力图减少对美国消费者的依赖。
 
 private consumption will not expand quickly enough to pick up the slack  接受 接管 填补空缺
 
@@ -165,9 +187,10 @@ weigh on the prices of offshore bonds  产生不好的影响
 downgrade the company's debt to its second lowest ranking
 评级下调到倒数第二个等级
 
-play sth up  炒作
+play  up  sth  炒作   渲染  大肆宣传
 
-
+He said that the six parties did not sit together to play up their differences and rather sought ways to solve problems.
+他说，六方这次坐到一起，不是为了扩大和渲染分歧，而是在承认分歧的基础上，寻找解决问题的途径，开辟解决问题的前景。
 
 
 
